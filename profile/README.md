@@ -10,7 +10,7 @@
 | Generate resume using LaTeX  | - | Backlog | [LaTeX] |
 | Build a dactyl keyboard (and add a joystick to it) | - | Backlog | [how-to-build-keebs] |
 | Set up my own infrastructure in Yandex Cloud (Sonarqube, Github runners, Checkmarx, etc)  | [Dotfiles]  | In progress | |
-| Write and publish Android app to create and enrich Anki flashcards for Chinese | [app-android-anki-chinese-flashcards-enricher] | In progress | [Ankidroid] |
+| Write and publish Android app able to create new and enrich existing Anki flashcards (for Chinese) | [app-android-anki-chinese-flashcards-enricher] | In progress | [Ankidroid] |
 | Automatically create Anki flashcards for Tatoeba sentences every two weeks | - | Backlog | [Tatoeba] |
 
 
