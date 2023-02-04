@@ -1,12 +1,12 @@
-# [`.github`][repo]
+# [`.github`][repo-url]
 
-<!-- shields -->
-[![shield-finished]][repo]
+Organization readme
 
 <!-- internal links -->
 
-<!-- external links -->
-[repo]: https://github.com/shishifubing-com/.github
-[shield-finished]: https://img.shields.io/badge/status-finished-informational?style=for-the-badge
+<!-- project links -->
+[repo-url]: https://github.com/shishifubing-com/.github
 
-Organization readme
+<!-- external links -->
+
+<!-- shield links -->
