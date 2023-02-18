@@ -1,12 +1,22 @@
-# [`.github`][repo-url]
+<div align="center" markdown="1">
+
+# [`.github`][url-repo]
+
+[![License][shield-license]][url-license]
 
 Organization readme
 
-<!-- internal links -->
+</div>
+
+<!-- relative links -->
 
 <!-- project links -->
-[repo-url]: https://github.com/shishifubing-com/.github
+
+[url-repo]: https://github.com/shishifubing/.github
+[url-license]: https://github.com/shishifubing/.github/blob/main/LICENSE
 
 <!-- external links -->
 
 <!-- shield links -->
+
+[shield-license]: https://img.shields.io/github/license/shishifubing/.github.svg?style=for-the-badge
