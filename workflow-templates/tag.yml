@@ -1,4 +1,4 @@
-name: Create a tag on the default branch
+name: tag
 
 on:
   push:
