@@ -1,0 +1,17 @@
+name: Create a tag on the default branch
+
+on:
+  push:
+    branches:
+      - $default-branch
+    paths-ignore:
+      - README.md
+      - docs/**
+      - .github/**/*.md
+      - .github/FUNDING.yml
+      - .github/ISSUE_TEMPLATE/**
+
+jobs:
+  tag:
+    uses: shishifubing/ci-actions-common/.github/workflows/tag.yml@main
+    secrets: inherit
