@@ -4,11 +4,21 @@
 
 [![License][shield-license]][url-license]
 
-Organization readme
+Organization repository
 
 </div>
 
+## About The Project
+
+### Contents
+
+- [workflow-templates] - [starter workflows][url-starter-workflows]
+- [profile] - organization readme
+
 <!-- relative links -->
+
+[workflow-templates]: ./workflow-templates
+[profile]: ./profile
 
 <!-- project links -->
 
@@ -16,6 +26,8 @@ Organization readme
 [url-license]: https://github.com/shishifubing/.github/blob/main/LICENSE
 
 <!-- external links -->
+
+[url-starter-workflows]: https://docs.github.com/en/actions/using-workflows/creating-starter-workflows-for-your-organization
 
 <!-- shield links -->
 
