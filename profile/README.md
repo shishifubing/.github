@@ -1,8 +1,3 @@
-<table>
-<tbody>
-  <tr>
-    <td>Website</td>
-    <td>https://shishifubing.com</td>
-  </tr>
-</tbody>
-</table>
+---
+Website: https://shishifubing.com
+---
