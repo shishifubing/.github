@@ -10,5 +10,4 @@ jobs:
   release:
     name: reuse-release
     uses: shishifubing/ci-actions-common/.github/workflows/reuse-release.yml@main
-    needs: build
     secrets: inherit
