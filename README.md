@@ -15,8 +15,8 @@ Organization repository
 
 ### Contents
 
-- [workflow-templates] - [starter workflows][url-starter-workflows]
 - [profile] - organization readme
+- [workflow-templates] - [starter workflows][url-starter-workflows]
 
 <!-- relative links -->
 
